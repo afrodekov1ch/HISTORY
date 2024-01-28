@@ -12,7 +12,7 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
+  companyName: Akaha Group
   productName: "\u041F\u0440\u043E\u0432\u0435\u0440\u044C \u0441\u0432\u043E\u0438
     \u0437\u043D\u0430\u043D\u0438\u044F: \u0418\u0441\u0442\u043E\u0440\u0438\u044F"
   defaultCursor: {fileID: 0}
