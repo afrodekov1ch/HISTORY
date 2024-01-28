@@ -18,6 +18,30 @@ EditorBuildSettings:
     path: Assets/Scenes/lvl1.unity
     guid: 6507b6d4d99f06e458e3be3f54a2f17d
   - enabled: 1
-    path: Assets/Scenes/lvl1 1.unity
-    guid: 163321d2d87e80a419db8844a62dcc9b
+    path: Assets/Scenes/lvl2.unity
+    guid: d9ba8e9ce9541cb45a4bd0aada042432
+  - enabled: 1
+    path: Assets/Scenes/lvl3.unity
+    guid: 033958e03e3b8c14b8dcb72d1c594f94
+  - enabled: 1
+    path: Assets/Scenes/lvl4.unity
+    guid: c6f75ff5c3282e444be1ccf1dfafce08
+  - enabled: 1
+    path: Assets/Scenes/lvl5.unity
+    guid: 747344bcb92f5e64b97b3be7c8533fa7
+  - enabled: 1
+    path: Assets/Scenes/lvl6.unity
+    guid: b18c18e78a7f3754a8f1ed7928e3361e
+  - enabled: 1
+    path: Assets/Scenes/lvl7.unity
+    guid: e6ba0fc8b17992e4598bb2e17b0e3362
+  - enabled: 1
+    path: Assets/Scenes/lvl8.unity
+    guid: 335cd0d41e3640345be49baff506c24c
+  - enabled: 1
+    path: Assets/Scenes/lvl9.unity
+    guid: 44387ac8b5b94ed4fa9015a820012f6e
+  - enabled: 1
+    path: Assets/Scenes/lvl10.unity
+    guid: f336051cbe8655b4d99d6609caa4fe6e
   m_configObjects: {}
