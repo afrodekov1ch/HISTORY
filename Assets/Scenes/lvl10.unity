@@ -668,12 +668,12 @@ RectTransform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1930227616}
-  - {fileID: 1236747988}
   - {fileID: 1021943811}
   - {fileID: 183696084}
   - {fileID: 610095244}
   - {fileID: 567937527}
+  - {fileID: 1930227616}
+  - {fileID: 1236747988}
   - {fileID: 681743759}
   m_Father: {fileID: 722539219}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1183,7 +1183,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\n\u0424\u0440\u0430\u043D\u0446\u0438\u044F"
+  m_Text: "\u0424\u0440\u0430\u043D\u0446\u0438\u044F"
 --- !u!222 &733326383
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1625,7 +1625,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\n\u041D\u0438\u0434\u0435\u0440\u043B\u0430\u043D\u0434\u044B\r"
+  m_Text: "\u041D\u0438\u0434\u0435\u0440\u043B\u0430\u043D\u0434\u044B\r"
 --- !u!222 &1148116375
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2432,7 +2432,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\n\u0421\u0428\u0410"
+  m_Text: "\u0421\u0428\u0410"
 --- !u!222 &1277084579
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -2843,8 +2843,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0.963701, y: 0.94500005}
-  m_AnchoredPosition: {x: 3.4200134, y: -1.9700012}
-  m_SizeDelta: {x: -53.32, y: -77.83}
+  m_AnchoredPosition: {x: 3.4200134, y: -0.00024414062}
+  m_SizeDelta: {x: -53.32, y: -0.00045776}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1998699879
 MonoBehaviour:
@@ -2868,7 +2868,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 5f58df713eead6e41a0c6a6261bba24e, type: 3}
-    m_FontSize: 65
+    m_FontSize: 60
     m_FontStyle: 3
     m_BestFit: 0
     m_MinSize: 0
@@ -3286,7 +3286,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\n\u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u044F\r"
+  m_Text: "\u0412\u0435\u043B\u0438\u043A\u043E\u0431\u0440\u0438\u0442\u0430\u043D\u0438\u044F\r"
 --- !u!222 &2084753110
 CanvasRenderer:
   m_ObjectHideFlags: 0
