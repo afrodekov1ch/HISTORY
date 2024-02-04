@@ -13,6 +13,13 @@ public class AudioController : MonoBehaviour
     }
     private void Update()
     {
-        audio_.volume = PlayerPrefs.GetFloat("volume");
+        if (PlayerPrefs.GetInt("stop") == 0) 
+        { 
+            audio_.volume = PlayerPrefs.GetFloat("volume");
+        }
+        else
+        {
+            audio_.volume = 0;
+        }
     }
 }

@@ -21,6 +21,7 @@ public class VictorinController : MonoBehaviour
 
     private int health;
 
+   
     private void Start()
     {
         Question();
@@ -54,4 +55,5 @@ public class VictorinController : MonoBehaviour
         int nextSceneIndex = SceneManager.GetActiveScene().buildIndex + 1;
         SceneManager.LoadScene(nextSceneIndex);
     }
+    
 }

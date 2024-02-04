@@ -13,5 +13,9 @@ public class StartGame : MonoBehaviour
             health = 3;
             PlayerPrefs.SetInt("health", health);
         }
+        if(PlayerPrefs.GetInt("stop") == 1)
+        {
+            PlayerPrefs.SetInt("stop", 0);
+        }
     }
 }

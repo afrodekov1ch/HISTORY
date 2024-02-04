@@ -8,7 +8,7 @@ public class RewardVid : MonoBehaviour
 {
     [SerializeField] private Button RewardButton;
     private int health;
-
+    
     private void OnEnable() => YandexGame.RewardVideoEvent += Rewarded;
     private void OnDisable() => YandexGame.RewardVideoEvent -= Rewarded;
 
@@ -37,6 +37,7 @@ public class RewardVid : MonoBehaviour
         {
             health += 1;
             PlayerPrefs.SetInt("health", health);
+            PlayerPrefs.SetInt("stop", 1);
             YandexGame.RewVideoShow(id);
         }
         else
